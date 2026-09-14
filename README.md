@@ -11,9 +11,9 @@ La traccia proposta dall'Ateneo richiede lo sviluppo di un prototipo minimale in
 
 I tre componenti essenziali di questo progetto sono:
 
-- Dataset Sintetico: creato tramite un codice comporto da ticket brevi con lessico tipico delle categorie a cui fa riferimento   e etichette di priorità. Partendo da un template in formato .json e esportato in file .csv.
-- Pipeline Machine Learning: tramite preprocessing del testo, trasformazione tramite TF-IDF e l'addestramento di modelli di      classificazione basati sulla Logistic Regression.
-- Dashboard: interfaccia grafica sviluppata in Python, che permette di classificare un singolo ticket o batch da file .csv
+- _Dataset Sintetico_ : creato tramite un codice comporto da ticket brevi con lessico tipico delle categorie a cui fa riferimento   e etichette di priorità. Partendo da un template in formato .json e esportato in file .csv.
+- _Pipeline Machine Learning_ : tramite preprocessing del testo, trasformazione tramite TF-IDF e l'addestramento di modelli di      classificazione basati sulla Logistic Regression.
+- _Dashboard_ : interfaccia grafica sviluppata in Python, che permette di classificare un singolo ticket o batch da file .csv
 
 # Requisiti
 
