@@ -33,18 +33,18 @@ Lo Script Script_Generazione_dataset_sintetico.py genera i seguenti output .csv,
 Poiché la traccia dell'elaborato richiede la realizzazione di un prototipo riproducibile, per generare nuovi dataset bisognerà posizionare nella stessa cartella lo script Script_generazione_dataset_sintetico.py e il file tickets.json. 
 La generazione di nuovi dataset risulterà diversa da quella utilizzata nell'elaborato in quanto lo script genera automaticamente nuove varianti.
 
-##_ATTENZIONE!_ E' molto importante non modificare il nome del template .json.
+_ATTENZIONE!_ E' molto importante non modificare il nome del template .json.
 
 # Addestramento Logistic Regression
 Per il presente elaborato, sono stati realizzati e addestrati due modelli di Logistic Regression:
 
-- ##Classificatore per categorie: addestrato per indirizzare ogni ticket nella categoria corretta tra Amministrazione,         Tecnico e Commerciale;
-- ##Classificatore per priorità: addestrato per assegnare a ogni ticket una priorità tra alta, media e bassa.
+- Classificatore per categorie: addestrato per indirizzare ogni ticket nella categoria corretta tra Amministrazione,         Tecnico e Commerciale;
+- Classificatore per priorità: addestrato per assegnare a ogni ticket una priorità tra alta, media e bassa.
 
 Per entrambi i modelli sono stati realizzati utilizzando una pipeline che gestisce sia la trasformazione del testo in valori numerici, ma anche la classificazione tramite Logistic Regression. 
 Per ripetere la fase di addestramento e valutare i modelli è possibile copiare i codici dei Notebook Jupiter. 
 
-##N.B: Per addestrare i modelli sono stati utilizzati i dataset presenti nella cartella Dataset utilizzati/.
+N.B: Per addestrare i modelli sono stati utilizzati i dataset presenti nella cartella Dataset utilizzati/.
 
 # Dashboard
 Lo script che fa riferimento alla Dashboard è disponibile nella sezione "main".
