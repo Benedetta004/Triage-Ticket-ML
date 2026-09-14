@@ -1,0 +1,51 @@
+id,title,body,category,priority
+8pyr8m6q,Sollecito per quota associativa,La scadenza del pagamento ricorrente è passata da alcune settimane. Quando prevede di effettuare il pagamento?,Amministrazione,alta
+0rzfqk77,Tempi di consegna per pacchetto standard,Abbiamo necessità di 10 utenti per il giorno X. È fattibile?,Commerciale,media
+h3wwkjeo,Performance ridotte su backup,"Quando accedo a con credenziali corrette, il sistema diventa molto lento e risponde con ritardo.",Tecnico,media
+867bazz5,Disponibilità articolo toolkit sviluppo,Potete verificare l'inventario di con SLA garantito?,Commerciale,bassa
+edz25uss,Verifica estratto conto servizio cloud,Il prospetto del servizio di supporto mostra addebiti che non tornano.,Amministrazione,media
+hx8q1i8e,criticità nel modulo export dati,C'è un difetto evidente nel comportamento di dal client desktop.,Tecnico,media
+2ujelcw5,Stato ordine toolkit sviluppo,A che punto è l'evasione dell'ordine 50 licenze?,Commerciale,bassa
+tjtypqo1,Richiesta preventivo per software gestionale,Avrei bisogno di un'offerta per con formazione inclusa comprensiva di costi e tempi di implementazione.,Commerciale,media
+syd4i5qm,Interruzione servizio login,Si verifica un'interruzione ripetuta quando accedo a tramite l'interfaccia web.,Tecnico,media
+91e9l3mn,criticità nel modulo integrazione API,Ho riscontrato un comportamento irregolare in attraverso API REST che causa perdita di dati.,Tecnico,alta
+2yqv96uc,Tempi di consegna per toolkit sviluppo,C'è possibilità di recapito immediato per la configurazione enterprise?,Commerciale,bassa
+g5o6tw49,Pagamento quota associativa in sospeso,Il bonifico relativo a l'importo convenuto non è stato ancora accreditato. C'è qualche problema?,Amministrazione,alta
+badbj371,Modifica richiesta piattaforma integrata,Avrei bisogno di modificare l'ordine per il Q2 2024 prima della spedizione.,Commerciale,alta
+5s5qjped,Richiesta fattura per abbonamento annuale,Mi serve urgentemente il documento fiscale della posizione cliente CLI-789 per la chiusura.,Amministrazione,media
+cr84leb5,Sincronizzazione report,Le informazioni di attraverso API REST risultano obsolete rispetto al sistema centrale.,Tecnico,media
+3nzipp40,Anomalia nel modulo dashboard,L'applicazione mostra errori sistematici in con credenziali corrette.,Tecnico,alta
+p92fio9f,Sollecito per consulenza,La scadenza del compenso consulenza è passata da alcune settimane. Quando prevede di effettuare il pagamento?,Amministrazione,alta
+l78b6qc5,Pagamento mese corrente in sospeso,Il bonifico relativo a l'abbonamento trimestrale non è stato ancora accreditato. C'è qualche problema?,Amministrazione,media
+1flx3kjz,Accesso negato a export dati,Ricevo un messaggio di accesso negato ogni volta che provo dal client desktop.,Tecnico,alta
+ijtg051k,Interruzione servizio sincronizzazione,Il sistema va in stop durante l'esecuzione di attraverso API REST e devo riavviare tutto.,Tecnico,alta
+8wjvoq2j,funzionamento irregolare nel modulo login,Si manifesta un bug critico quando opero con codice 500.,Tecnico,alta
+xfzn3sy9,Richiesta preventivo per supporto tecnico,Serve una valutazione economica per per reparto vendite.,Commerciale,media
+ktai6n0b,Interruzione servizio backup,Si verifica un arresto anomalo quando interagisco con dalla versione 2. 3.,Tecnico,alta
+d8tls28m,Tempi di consegna per servizi professionali,Quanto tempo richiede l'evasione di modalità SaaS?,Commerciale,media
+flomp0oe,Richiesta preventivo per toolkit sviluppo,Necessitiamo di un listino aggiornato per la configurazione enterprise.,Commerciale,media
+ywaw6f0u,Sollecito per prestazione professionale,Vorremmo chiudere la pendenza del pagamento ricorrente al più presto.,Amministrazione,alta
+bsnoun0r,Accesso negato a sincronizzazione,Le mie credenziali per in orario di punta non vengono più riconosciute.,Tecnico,alta
+0u0ncgzl,Verifica importo rendiconto rinnovo servizi,L'IVA calcolata su l'accordo commerciale non sembra corrispondere all'aliquota pattuita.,Amministrazione,media
+2a4udjfn,Richiesta preventivo per piano premium,Potete elaborare un'offerta su misura per modalità SaaS?,Commerciale,media
+1j57c2dt,Richiesta preventivo per modulo CRM,Chiedo gentilmente una proposta commerciale per soluzione chiavi in mano da presentare alla direzione.,Commerciale,bassa
+gx20ku2z,Tempi di consegna per piattaforma integrata,Vorrei sapere se per la configurazione enterprise è disponibile la consegna express e a quale costo.,Commerciale,media
+bebg5bme,Stato fabbisogno soluzione cloud,Vorrei un riscontro sullo stato di avanzamento di bundle completo.,Commerciale,media
+f1xx45da,Pagamento consulenza in sospeso,Ho effettuato il bonifico per il compenso consulenza ma non ho ricevuto alcuna conferma.,Amministrazione,alta
+61l1ips0,Interruzione servizio upload file,Ogni tentativo di operare su sulla dashboard principale provoca il blocco del sistema.,Tecnico,bassa
+jxm4s7ie,Richiesta preventivo per software gestionale,Potete inviarmi una quotazione per il cliente aziendale? Stiamo valutando diverse opzioni.,Commerciale,alta
+b45kl49d,Stato ordine modulo CRM,Serve un tracking della fornitura con contratto annuale.,Commerciale,media
+0t3gmb2d,Accesso negato a backup,Il sistema mi impedisce di entrare in in ambiente produzione dicendo che non ho i permessi.,Tecnico,alta
+do159wrt,Sincronizzazione backup,Le informazioni di in modalità avanzata risultano obsolete rispetto al sistema centrale.,Tecnico,media
+9c66au5w,Richiesta conteggio per periodo fiscale,Manca la documentazione per il compenso consulenza. Potete fornirla in formato pdf?,Amministrazione,media
+6x0gu61a,Accesso negato a import massivo,Le mie credenziali per dopo l'ultimo aggiornamento non vengono più riconosciute.,Tecnico,bassa
+e8z5bfr9,Documentazione contabile consulenza,Vorrei ottenere la reportistica di l'ordine ORD-2024-001 per verifica interna.,Amministrazione,bassa
+93x0z5sg,Verifica estratto conto prestazione professionale,Nell'estratto del compenso consulenza c'è una transazione che non ricordo di aver autorizzato.,Amministrazione,media
+kdaa1v65,Anomalia nel modulo workflow,Rilevo anomalie persistenti nell'elaborazione di nel servizio schedulato.,Tecnico,alta
+sj6brs7l,Modifica commessa servizi professionali,Potete aggiornare i dettagli dell'ordine con formazione inclusa?,Commerciale,alta
+p9h0kwi9,Richiesta rimborso per anno contabile,Vorrei richiedere il rimborso per l'abbonamento trimestrale in quanto il servizio non è stato fornito come concordato.,Amministrazione,media
+dviv2k12,Richiesta fattura per periodo fiscale,La fattura per l'accordo commerciale non è disponibile nel nostro sistema. Sarebbe possibile riceverla?,Amministrazione,media
+kes7eqdy,Comportamento anomalo durante archiviazione,"Quando provo a con file superiori a 10MB, il sistema non completa l'operazione come dovrebbe.",Tecnico,bassa
+6k5kh95l,Disponibilità articolo piattaforma integrata,Siamo interessati a ordinare per sede Milano ma sul sito risulta non disponibile.,Commerciale,bassa
+50pj374x,Pagamento trimestre chiuso in sospeso,Il pagamento di l'ordine ORD-2024-001 risulta ancora in elaborazione da diversi giorni. Potete verificare lo stato?,Amministrazione,media
+4mvn9kea,Sollecito per Q1 2024,La scadenza della fornitura di dicembre è passata da alcune settimane. Quando prevede di effettuare il pagamento?,Amministrazione,alta
