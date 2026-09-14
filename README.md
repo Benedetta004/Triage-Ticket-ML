@@ -15,7 +15,6 @@ I tre componenti essenziali di questo progetto sono:
 - Pipeline Machine Learning: tramite preprocessing del testo, trasformazione tramite TF-IDF e l'addestramento di modelli di      classificazione basati sulla Logistic Regression.
 - Dashboard: interfaccia grafica sviluppata in Python, che permette di classificare un singolo ticket o batch da file .csv
 
-# Requisiti 
 Per eseguire il progetto sono stati utilizzati:
 
 - Python 3.14.4
